@@ -32,7 +32,7 @@ representing +125 degrees C.
 
 Circuit :
 
-![alt text](/circuit.png)
+![alt text](circuit.png)
 
 
 
