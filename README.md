@@ -32,7 +32,7 @@ representing +125 degrees C.
 
 Circuit :
 
-![GitHub Logo](/circuit.png)
+(/circuit.png)
 
 
 
