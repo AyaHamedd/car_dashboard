@@ -32,7 +32,7 @@ representing +125 degrees C.
 
 Circuit :
 
-![alt text](circuit.png)
+![alt text](https://github.com/AyaHamedd/car_dashboard/blob/master/dashboard.PNG?raw=true)
 
 
 
